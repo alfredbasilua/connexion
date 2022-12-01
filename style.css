@@ -1,0 +1,28 @@
+form { 
+    margin-top:5vh;
+    margin-bottom: 25%;
+    margin-left:35vw;
+    padding: 50px;
+}
+h1 { margin-left:5vw;
+    padding: 2px;
+} 
+.user,.pass, .non, .email {border: px;
+    border-radius:5px;
+    padding: 2%;
+    font-size: 10px;
+    margin: 5px;
+    width: 21vw;
+
+}
+
+.inp, .in {
+background-color: blue;
+border: px;
+border-radius:5px;
+padding: 2%;
+font-size: 10pt;
+margin: 5px;
+width: 23vw;
+color:white;
+}
